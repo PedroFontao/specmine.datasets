@@ -3,32 +3,32 @@
 \docType{data}
 \name{spectra_options}
 \alias{spectra_options}
-\title{Information on the library of NMR reference spectra in specmine package}
+\title{Information on the library of NMR reference spectra in the specmine package}
 \format{
 A data frame with 1816 observations on the following 9 variables.
-Each observation corresponds to a spectrum in our library.
+Each observation corresponds to a spectrum in the library.
 \describe{
-\item{\code{SPCMNS}}{a character vector with the spectra IDs.}
-\item{\code{SPCMNM}}{a character vector with the metabolite IDs of the corresponding spectra.}
-\item{\code{FREQUENCY}}{a character vector with the frequencies under which the spectra were obtained.}
-\item{\code{NUCLEUS}}{a character vector mentioning the nucleus examined. All observations are '1H'.}
-\item{\code{PH}}{a character vector with the pH of the samples from which the spectra were obtained. May contain missing values.}
-\item{\code{TEMPERATURE}}{a character vector with the temperature under which the spectra were obtained. May contain missing values.}
-\item{\code{SOLVENT}}{a character vector with the solvent of the samples from which the spectra were obtained.}
-\item{\code{ORIGINAL_DATABASE_ID}}{whenever available, a character vector with the ID of the corresponding spectra from the database where it was originally acquired.}
-\item{\code{DATABASE}}{a character vector specifying from which database the spectra were taken.}
+\item{\code{SPCMNS}}{A character vector with the spectra IDs.}
+\item{\code{SPCMNM}}{A character vector with the metabolite IDs of the corresponding spectra.}
+\item{\code{FREQUENCY}}{A character vector with the frequencies at which the spectra were obtained.}
+\item{\code{NUCLEUS}}{A character vector indicating the examined nucleus. All observations are '1H'.}
+\item{\code{PH}}{A character vector with the pH of the samples from which the spectra were obtained. May contain missing values.}
+\item{\code{TEMPERATURE}}{A character vector with the temperature at which the spectra were obtained. May contain missing values.}
+\item{\code{SOLVENT}}{A character vector with the solvent of the samples from which the spectra were obtained.}
+\item{\code{ORIGINAL_DATABASE_ID}}{Whenever available, a character vector with the ID of the corresponding spectrum from the database where it was originally acquired.}
+\item{\code{DATABASE}}{A character vector specifying the database from which the spectra were taken.}
 }
 }
 \usage{
 spectra_options
 }
 \description{
-This dataset provides all the information on the library
-of NMR spectra used as references in NMR metabolite identification.
+This dataset provides information on the library of NMR spectra
+used as references in NMR metabolite identification.
 }
 \references{
-The spectra were taken from the following databases: HMDB,
-BMRB and SDBS. Some spectra were internally acquired and are mentioned
-as OUR in the DATABASE variable.
+The spectra were taken from the HMDB, BMRB and SDBS databases.
+Some spectra were internally acquired and are mentioned as OUR in the
+\code{DATABASE} variable.
 }
 \keyword{datasets}

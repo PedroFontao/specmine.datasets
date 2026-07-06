@@ -3,7 +3,7 @@
 \docType{data}
 \name{cassavaPPD}
 \alias{cassavaPPD}
-\title{Cassava Postharvest Physiological Deterioration}
+\title{Cassava postharvest physiological deterioration}
 \format{
 An object of class \code{"list"}
 }
@@ -11,11 +11,11 @@ An object of class \code{"list"}
 cassavaPPD
 }
 \description{
-Cassava is a root well known and widely cultivated in tropical and
-subtropical regions for its starchy tuberous root, which is a great
-source of carbohydrates. It also has a great variety of applications,
-like animal feeding, culinary or alcoholic beverages. In some countries,
-cassava has also been tested as an ethanol biofuel feedstock.
+Cassava is a root widely cultivated in tropical and subtropical regions for
+its starchy tuberous root, which is an important source of carbohydrates.
+It has a wide variety of applications, including animal feeding, culinary
+uses and alcoholic beverages. In some countries, cassava has also been
+tested as an ethanol biofuel feedstock.
 }
 \references{
 Uarrota et al. (2014) Metabolomics combined with chemometric tools

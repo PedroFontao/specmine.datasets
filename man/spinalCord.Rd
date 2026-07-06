@@ -12,15 +12,15 @@ spinalCord
 }
 \description{
 This dataset consists of 12 LC-MS spectra samples in netCDF
-format from mouse spinal cord, divided into 2 groups: the wild type
-and the knockout group. The data was obtained from MetaboAnalyst and
-originates from a study describing a general strategy for identifying
-endogenous substrates of enzymes by untargeted LC-MS analysis of tissue
-metabolomes from wild-type and enzyme-inactivated organisms.
+format from mouse spinal cord, divided into two groups: wild type and
+knockout. The data was obtained from MetaboAnalyst and originates from a
+study describing a general strategy for identifying endogenous substrates of
+enzymes by untargeted LC-MS analysis of tissue metabolomes from wild-type and
+enzyme-inactivated organisms.
 }
 \references{
-A. Saghatelian, S.A. Trauger, E.J. Want, E.G. Hawkins, G. Siuzdak,
-B.F. Cravatt. Assignment of endogenous substrates to enzymes
+A. Saghatelian, S.A. Trauger, E.J. Want, E.G. Hawkins,
+G. Siuzdak, and B.F. Cravatt. Assignment of endogenous substrates to enzymes
 by global metabolite profiling. Biochemistry, 43:14332-14339, 2004.
 }
 \keyword{datasets}
