@@ -3,7 +3,7 @@
 \docType{data}
 \name{spinalCord}
 \alias{spinalCord}
-\title{Brazilian Propolis from different Harvest Seasons and different Agroecological Regions}
+\title{Mouse spinal cord LC-MS data}
 \format{
 An object of class \code{"list"}
 }
@@ -11,17 +11,16 @@ An object of class \code{"list"}
 spinalCord
 }
 \description{
-This dataset consists of 12 LC-MS samples of spectra in the netCDF
-format, from mice spinal cord divided into 2 groups: the wild type
-and the knockout group. The data was obtained from the
-MetaboAnalyst site, originating from a study which describes a
-general strategy for identifying endogenous substrates of enzymes
-by untargeted LC-MS analysis of tissue metabolomes from
-wild-type and enzyme-inactivated organisms
+This dataset consists of 12 LC-MS spectra samples in netCDF
+format from mouse spinal cord, divided into 2 groups: the wild type
+and the knockout group. The data was obtained from MetaboAnalyst and
+originates from a study describing a general strategy for identifying
+endogenous substrates of enzymes by untargeted LC-MS analysis of tissue
+metabolomes from wild-type and enzyme-inactivated organisms.
 }
 \references{
 A. Saghatelian, S.A. Trauger, E.J. Want, E.G. Hawkins, G. Siuzdak,
-B.F. Cravatt Assignment of Endogenous Substrates to Enzymes
-by Global Metabolite Profiling Biochemistry, 43:14332-14339, 2004.
+B.F. Cravatt. Assignment of endogenous substrates to enzymes
+by global metabolite profiling. Biochemistry, 43:14332-14339, 2004.
 }
 \keyword{datasets}

@@ -20,6 +20,6 @@ cassava has also been tested as an ethanol biofuel feedstock.
 \references{
 Uarrota et al. (2014) Metabolomics combined with chemometric tools
 (pca, hca, pls-da and svm) for screening cassava (manihot esculenta crantz)
-roots during postharvest physiological deterioration. Food Chemistry 161:67-78
+roots during postharvest physiological deterioration. Food Chemistry 161:67-78.
 }
 \keyword{datasets}

@@ -3,7 +3,7 @@
 \docType{data}
 \name{propolis}
 \alias{propolis}
-\title{Brazilian Propolis from different Harvest Seasons and different Agroecological Regions (dataset)}
+\title{Brazilian Propolis from Different Harvest Seasons and Different Agroecological Regions (dataset)}
 \format{
 An object of class \code{"list"}
 }
@@ -36,6 +36,6 @@ M. Maraschin, A. Somensi-Zeggio, S. K. Oliveira, S. Kuhnen,
 M. M. Tomazzoli, A. C. M. Zeri, R. Carreira, and M. Rocha.
 A machine learning and chemometrics assisted interpretation
 of spectroscopic data - a nmr-based metabolomics platform for
-the assessment of brazilian propolis. 2012
+the assessment of brazilian propolis. 2012.
 }
 \keyword{datasets}
